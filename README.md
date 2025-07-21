@@ -1,6 +1,5 @@
 # autonomous-car
 
-
 <img width="1386" height="741" alt="image" src="https://github.com/user-attachments/assets/a27a5f94-e1a9-4268-b1f4-4c521266f276" />
 
 This project implements an autonomous navigation system using deep learning and computer vision techniques in Webots. It integrates:
@@ -31,3 +30,6 @@ The repository includes:
 ## 🚀 Run the Simulation
 Code included in repository files. 
 Link to video: https://www.youtube.com/watch?v=CQvCHlXKTTk
+
+## 🧠 Authors
+- María Paula Gutiérrez C. and Team 05
